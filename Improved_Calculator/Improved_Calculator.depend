@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613489582 source:c:\users\dominykasterminator\desktop\c++ projects\improved_calculator\main.cpp
+	<iostream>
+	<windows.h>
+	<limits>
+
